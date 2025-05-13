@@ -1,0 +1,8 @@
+nvidia/parakeet-tdt-0.6b-v2"
+
+for proccess - "download (4).wav" (6 seconds)
+
+on gpu = 0.09 seconds
+on cpu = 0.53 seconds
+
+
